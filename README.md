@@ -47,7 +47,7 @@ The key contributions of this paper are as follows:
      - "Make Me a BNN" paper introduces a quick deployment and straightforward integration into existing models by attaching simple adaptable Bayesian modules directly to the normalization layers. But effective calibration improvement involves adding an entirely new Bayesian processing layer, might not be the most efficient way to introduce Bayesian uncertainty into existing models.
 
 
-# 2. The method and my interpretation
+# 2. The method 
 
 ## 2.1. The original method
 

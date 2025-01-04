@@ -8,3 +8,4 @@ ABNN/.idea/*
 ABNN/datasets/__pycache__/*
 ABNN/deep_learning_models/__pycache__/*
 ABNN/__pycache__/*
+*.ipynb linguist-detectable=false
